@@ -1,0 +1,15 @@
+# Requirements for Xshell Session Address Exporter
+# Python standard library modules only - no external dependencies required
+
+# The script uses only built-in Python modules:
+# - os
+# - sys  
+# - json
+# - xml.etree.ElementTree
+# - pathlib
+# - csv
+# - argparse
+# - datetime
+
+# This file is included for completeness but no additional packages need to be installed
+# Python 3.6+ is required
